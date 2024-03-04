@@ -16,21 +16,24 @@ This repository contains a React application scaffolded with Vite, a fast and ef
 Follow these steps to get the project up and running locally:
 
 1. **Clone the Repository**: 
+
    ```bash
    git clone git@github.com:abhimehrr/react-boilerplate.git
 
 2. **Install Dependencies**:
+
     ```bash
     npm install
 
 3. **Start Development Server**:
+
     ```bash
     npm run dev
 
 4. **Build for Production**:
+
     ```bash
     npm run build
-
 
 ## Project Structure:
 - public/: Contains static assets and the HTML template for the application.
